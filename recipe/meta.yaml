@@ -16,11 +16,9 @@ build:
 
 requirements:
   host:
-    - python >=3.6
     - pip
     - pytest
   run:
-    - python >=3.6
     - pytest
     - py
 
