@@ -16,9 +16,11 @@ build:
 
 requirements:
   host:
+    - python
     - pip
     - pytest
   run:
+    - python
     - pytest
     - py
 
